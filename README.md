@@ -65,19 +65,17 @@ With a solid year of experience in the field, I specialize in crafting delightfu
   </a>
 </div> -->
 
-
-
 💡 **Summary of My Profile:**
 
+<div style="text-align: center;">
 
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidsarkar1&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidsarkar1&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rashidsarkar1&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rashidsarkar1&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashidsarkar1&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashidsarkar1&theme=react&utcOffset=8)
 
-
+</div>
 <!-- project -->
 
 ## 🚀 Featured Projects:
@@ -134,4 +132,3 @@ With a solid year of experience in the field, I specialize in crafting delightfu
 </p>
 
 Let's build something awesome together! 💬
-
