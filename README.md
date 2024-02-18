@@ -67,7 +67,7 @@ With a solid year of experience in the field, I specialize in crafting delightfu
 
 💡 **Summary of My Profile:**
 
-<div style="text-align: center;">
+<div  align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidsarkar1&theme=react">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidsarkar1&theme=react" alt="Profile Details">
   </a>
