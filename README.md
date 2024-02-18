@@ -1,16 +1,11 @@
 # github-profile-summary-cards-example
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
-
-```To create your profile README you need to name the repo as your username```
-
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidsarkar1&theme=react)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rashidsarkar1&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rashidsarkar1&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashidsarkar1&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashidsarkar1&theme=react&utcOffset=8)
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
