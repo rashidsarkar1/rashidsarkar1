@@ -68,14 +68,23 @@ With a solid year of experience in the field, I specialize in crafting delightfu
 💡 **Summary of My Profile:**
 
 <div style="text-align: center;">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidsarkar1&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rashidsarkar1&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rashidsarkar1&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashidsarkar1&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashidsarkar1&theme=react&utcOffset=8)
-
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidsarkar1&theme=react">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidsarkar1&theme=react" alt="Profile Details">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rashidsarkar1&theme=react">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rashidsarkar1&theme=react" alt="Repos Per Language">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rashidsarkar1&theme=react">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rashidsarkar1&theme=react" alt="Most Commit Language">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashidsarkar1&theme=react">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashidsarkar1&theme=react" alt="Stats">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashidsarkar1&theme=react&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashidsarkar1&theme=react&utcOffset=8" alt="Productive Time">
+  </a>
 </div>
+
 <!-- project -->
 
 ## 🚀 Featured Projects:
